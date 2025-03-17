@@ -1,7 +1,7 @@
 # Course Material
 
 These notes collects some of the material for the PhD course on Continuous
-Optimization for Machine Learning held from March 17 to March 21, 2024, at
+Optimization for Machine Learning held from March 17 to March 21, 2025, at
 the University of Siena.
 
 ## Contents
