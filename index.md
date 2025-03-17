@@ -6,4 +6,5 @@ the University of Siena.
 
 ## Contents
 - [Notes](notes.pdf)
+- [Lecture 1](lecture1.pdf)
 - [Code](code/)
