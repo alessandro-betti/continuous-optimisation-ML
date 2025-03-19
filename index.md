@@ -8,4 +8,5 @@ the University of Siena.
 - [Notes](notes.pdf)
 - [Lecture 1](lecture1.pdf)
 - [Lecture 2](lecture2.pdf)
+- [Lecture 3](lecture3.pdf)
 - [Code](code/)
