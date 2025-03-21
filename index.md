@@ -10,4 +10,5 @@ the University of Siena.
 - [Lecture 2](lecture2.pdf)
 - [Lecture 3](lecture3.pdf)
 - [Lecture 4](lecture4.pdf)
+- [Lecture 5](lecture5.pdf)
 - [Code](code/)
